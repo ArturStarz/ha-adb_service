@@ -1,9 +1,10 @@
 {
     "domain": "adb_service",
     "name": "ADB Service",
-    "version": "1.0.1",
-    "documentation": "https://github.com/mercs600/ha-adb_service",
+    "version": "1.1.0",
+    "documentation": "https://github.com/ArturStarz/ha-adb_service",
+    "issue_tracker": "https://github.com/ArturStarz/ha-adb_service/issues",
     "dependencies": [],
-    "codeowners": ["mercs600"],
+    "codeowners": ["mercs600", "ArturStarz"],
     "requirements": []
   }
